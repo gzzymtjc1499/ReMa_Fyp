@@ -70,11 +70,11 @@ driver.find_element(By.XPATH, '//*[@id="wrap"]/header/div/div/div[2]/div[2]/butt
 time.sleep(3)
 driver.find_element(By.XPATH,
                     '//*[@id="app"]/div[3]/div[1]/div/div[2]/div/div/div[2]/div[1]/ul/li[1]/div/input').send_keys(
-    'k.diao@tilburguniversity.edu')
+    '(insert your user name here)')
 time.sleep(3)
 driver.find_element(By.XPATH,
                     '//*[@id="app"]/div[3]/div[1]/div/div[2]/div/div/div[2]/div[1]/ul/li[2]/div/input').send_keys(
-    'Teamblind_123qwe')
+    'insert your password here')
 time.sleep(3)
 driver.find_element(By.XPATH,
                     '//*[@id="app"]/div[3]/div[1]/div/div[2]/div/div/div[2]/div[1]/div[1]/button/strong').click()
