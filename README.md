@@ -9,4 +9,5 @@ We scrapped the post contents on TeamBlind, a large online job discussing platfo
 3. Run `3_analyze_post_content.py` to analyze the topics and keywords of the posts.
 
 Note 1: the code of step 1 & 2 may not be valid anymore because of the change of the website.
+
 Note 2: the link.txt and results.zip contains the data I got in July 2023.
