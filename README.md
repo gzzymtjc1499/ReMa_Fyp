@@ -11,4 +11,4 @@ We scrapped the post contents on TeamBlind, a large online job discussing platfo
 
 **Note:**
 1. the code of step 1 & 2 may not be valid anymore because of the change of the website.
-2. the `link.txt` and `results.zip` contains the data I got in July 2023.
+2. the `link.txt` and `results.zip` contains the data I got in July 2023, which are also the data I used in my final paper.
